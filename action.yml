@@ -3,7 +3,7 @@ description: 'Github action to execute dependency check for Bom Dia Codigo labs'
 Author: 'javixeneize'
 branding:
   icon: 'check-square'  
-  color: 'red'
+  color: 'green'
 inputs:
     project:
         required: true
