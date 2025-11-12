@@ -2,7 +2,7 @@ name: 'Dependency Check - Bom Dia Codigo'
 description: 'Github action to execute dependency check for Bom Dia Codigo labs'
 Author: 'javixeneize'
 branding:
-  icon: 'shield'  
+  icon: 'check-square'  
   color: 'red'
 inputs:
     project:
