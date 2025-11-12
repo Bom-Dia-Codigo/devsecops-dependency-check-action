@@ -1,5 +1,5 @@
-name: 'Dependency Check'
-description: 'Github action to execute dependency check as part of a github workflow'
+name: 'Dependency Check - Bom Dia Codigo'
+description: 'Github action to execute dependency check for Bom Dia Codigo labs'
 Author: 'javixeneize'
 branding:
   icon: 'shield'  
