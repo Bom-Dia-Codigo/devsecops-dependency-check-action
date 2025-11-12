@@ -92,3 +92,5 @@ Downloading this and opening it in a browser will give you the following (for ex
 Dependency check action was developed by the Santander UK Security Engineering team, namely:
 
 - [Javier Domínguez Ruiz](https://github.com/javixeneize)
+
+This is a fork of dependency-check/Dependency-Check_Action, this fork and changes were made for didatic and integrity purposes. Thanks Javier, counts on me :)
